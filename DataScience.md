@@ -42,3 +42,21 @@
     * Ex. tempature
 * **Ratio:** clear definition of 0.0; none of a variable at 0.0
     * *counts, time*
+* **Temporal:** Each record has a time associated wiht it
+    * *retail transaction*
+* **Spatial Data:** Each record has a position or area
+    * *Geographical locations*
+
+## Visualization
+
+#### Histogram
+* For showing the distribution of values
+* Useful for **continuous** data
+
+#### Box Plot
+* Box plots show the distribution of the values for a single *numerical* value.
+* Whiskers: top and bottom lines of the box plot
+
+## Data Quality
+
+#### Data Quality Report
