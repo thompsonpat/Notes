@@ -12,6 +12,6 @@
 
 _The prefix describes when the current node is traversed._
 
-- **Preorder** - Node, Left, Right
-- **Inorder** - Left, Node, Right
-- **Postorder** - Left, Right, Node
+- **Preorder** - **N**ode, **L**eft, **R**ight
+- **Inorder** - **L**eft, **N**ode, **R**ight
+- **Postorder** - **L**eft, **R**ight, **N**ode
